@@ -12,7 +12,7 @@ The app includes:
 The game pages include random puzzle generation, fixed/editable cells, invalid move highlighting, a timer, reset/new game controls, and completion detection.
 
 ## Deliverables
-- Website: [https://yiwenhu789.github.io/sudoku-website/]
+- Website: [https://yiwen-hu-project3.onrender.com]
 - Repo: [https://github.com/yiwenhu789/sudoku-website]
 - Collaborators：[ Hanhan Guo; Jiaju Zhang; Yiwen Hu]
 
